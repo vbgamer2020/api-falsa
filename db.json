@@ -5,15 +5,7 @@
       "title": "hello"
     }
   ],
-  "profile": [
-    {
+  "profile": {
     "name": "typicode"
   }
-  ],
-  "personagem": [
-    {
-      "id": 1,
-      "name": "kaleb"
-    }
-  ]
 }
