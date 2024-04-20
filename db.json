@@ -2,6 +2,6 @@
  "Personagens": [
     { "id": 1, "nome": "Vitor Barbosa Tozeti"},
     { "id": 2, "nome": "cris"},
-    { "id": 3, "nome": "Paulo Rogério"},
+    { "id": 3, "nome": "Paulo Rogério"}
   ]
 }
