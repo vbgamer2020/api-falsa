@@ -12,9 +12,6 @@
     { "id": 4, "nome": "Felipe da Cunha", "curso": 1 },
     { "id": 5, "nome": "Luiza Cardoso Pereira", "curso": 1 }
   ],
-    "Personagem": [
-    { "id": 1, "nome": "Vitor Barbosa Tozeti", "curso": 1 }
-  ],
   "empresa": {
     "nome": "Code Prestige"
   }
