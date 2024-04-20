@@ -3,22 +3,30 @@
         {
             "id": 1,
             "nome": "kaleb",
-            "tributo": "-"
+            "idade": "-",
+            "arma": "-",
+            "tributo": "Indução a Efeito de Status ou Manipulação Empática."
         },
         {
             "id": 2,
             "nome": "Noah",
-            "tributo": "-"
+            "idade": "-",
+            "arma": "-",
+            "tributo": "Manipulação Conceitual limitada, Criação e Manipulação Empática."
         },
         {
             "id": 3,
             "nome": "Mortuus",
-            "tributo": "-"
+            "idade": "-",
+            "arma": "-",
+            "tributo": "Viagem Dimensional limitada."
         },
         {
             "id": 4,
             "nome": "Reaver",
-            "tributo": "-"
+            "idade": "-",
+            "arma": "-",
+            "tributo": "Teletransporte."
         }
     ]
 }
