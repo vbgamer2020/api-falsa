@@ -12,7 +12,8 @@
   ],
     "personagem":  [
     {
-      "name": "typicode"
+      "id": 2,
+      "nome": "kaleb"
     }
   ],
 }
