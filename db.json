@@ -1,54 +1,67 @@
 {
     "Personagens": [
         {
+            "id1": "1",
             "nome": "Cães Divinos",
             "descricao1": "(玉ぎょく犬けん Gyokuken?): Shikigami caninos gêmeos com narizes poderosos para rastrear e presas e garras letais para devorar maldições."
         },
         {
+            "id2": "2",
             "nome": "Nue",
             "descricao2": "(鵺ぬえ Nue?): Um Shikigami alado armado com asas de eletrochoque que pode transportar pessoas por curtas distâncias. Megumi usa Nue principalmente para explorar ou apoiar outro Shikigami usando sua mobilidade."
         },
         {
+            "id3": "3",
             "nome": "Grande Serpente",
             "descricao3": "(大蛇オロチ Orochi?): Uma cobra shikigami gigante que foi usada para capturar os alvos de Megumi. Foi capaz de destruir maldições de baixo nível, mas apenas prendeu Sukuna momentaneamente antes de ser destruído."
         },
         {
+            "id4": "4",
             "nome": "Sapo",
             "descricao4": "(蝦が蟇ま Gama?): Um grande Shikigami sapo com uma língua longa e poderosa que pode agarrar as pessoas e puxá-las pelo ar. A língua do sapo pode ser usada para puxar Megumi ou seus aliados para um local seguro e, em seguida, carregar uma pessoa inteira na boca, se necessário."
         },
         {
+            "id5": "5",
             "nome": "Max Elefante",
             "descricao5": "(満ばん象しょう Banshō?): Um shikigami elefante que Megumi dominou pouco antes do Evento Goodwill. Max Elephant tem a capacidade de produzir um grande volume de água a partir de sua tromba e seu peso também pode ser usado ofensivamente."
         },
         {
+            "id6": "6",
             "nome": "Fuga do Coelho",
             "descricao6": "(脱だっ兎と Datto?): Um enxame de shikigami de coelhos que Megumi usa como distração ou para ajudá-lo a descobrir as habilidades de seus inimigos. Assim como o Well's Unknown Abyss, os coelhos podem ser destruídos sem qualquer repercussão, permitindo que Megumi gere quantos ele precisar."
         },
         {
+            "id7": "7",
             "nome": "Cervo Circular",
             "descricao7": "(円 鹿 Madoka): Um Cervo que utiliza técnica amaldiçoada reversa para curar, é também capaz de utilizar a técnica reversa para extinguir energia amaldiçoada de objetos e substâncias."
         },
         {
+            "id8": "8",
             "nome": "Touro Perfurante",
             "descricao8": "(貫 牛 Kangyū): Um Touro que só ataca em linha reta, o ataque e a velocidade do shikigami aumenta conforme a distância que ele percorre."
         },
         {
+            "id9": "9",
             "nome": "Tigre Sepulcral",
             "descricao9": "(虎 葬 Kosou): O 9° shikigami das Dez sombras, suas habilidades e sua aparência é desconhecida."
         },
         {
+            "id10": "10",
             "nome": "Espada de Oito Cabos Divergente Sila Divino General Mahoraga",
             "descricao10": "(八やつ握かの剣つるぎ異い戒かい神しん将しょう魔ま虚こ羅ら Yatsuka-no-Tsurugi Ikaishinshō Makora?): O shikigami incontrolável mais poderoso que a Técnica das Dez Sombras pode produzir . Nem um único usuário da técnica foi capaz de domar Mahoraga, incluindo Megumi. Ele só ameaça convocá-lo como um trunfo se sentir que vai perder uma batalha de qualquer maneira, liberando-o para atacar tanto ele quanto seu oponente."
         },
         {
+            "id11": "11",
             "nome": "Cão Divino: Totalidade",
             "descricao11": "(玉 犬 「渾」 Gyokuken: Kon): é uma versão melhorada do Cão Divino Shikigami preto que herdou o poder do Cão Divino branco caído. Ele pode ser invocado pela Técnica das Dez Sombras de Megumi Fushiguro e é poderoso o suficiente para lutar com Espíritos Amaldiçoados de Grau Especial."
         },
         {
+            "id12": "12",
             "nome": "O Abismo Desconhecido do Poço",
             "descricao12": "(不知 井底 Seiteishirazu): usando uma combinação de dois Shikigami: Sapo e Nue, os sapos ganham asas e a habilidade de voar."
         },
         {
+            "id13": "13",
             "nome": "Nue: Totalidade - Merged Beast Agito",
             "descricao13": "(鵺ぬえ「渾こん」嵌合かんごう獣じゅう顎あぎ吐と Nue・Kon - Kangō Jū Agito?) é uma versão humanóide melhorada do Shikigami Nue que herdou os poderes da Grande Serpente, Tigre Sepulcral e Cervo Redondo. .["
         }
