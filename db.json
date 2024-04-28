@@ -9,28 +9,36 @@
             "descricao2": "(鵺ぬえ Nue?): Um Shikigami alado armado com asas de eletrochoque que pode transportar pessoas por curtas distâncias. Megumi usa Nue principalmente para explorar ou apoiar outro Shikigami usando sua mobilidade."
         },
         {
-            "nome": "Grande Serpente"
+            "nome": "Grande Serpente",
+            "descricao3": "(大蛇オロチ Orochi?): Uma cobra shikigami gigante que foi usada para capturar os alvos de Megumi. Foi capaz de destruir maldições de baixo nível, mas apenas prendeu Sukuna momentaneamente antes de ser destruído."
         },
         {
-            "nome": "Sapo"
+            "nome": "Sapo",
+            "descricao4": "(蝦が蟇ま Gama?): Um grande Shikigami sapo com uma língua longa e poderosa que pode agarrar as pessoas e puxá-las pelo ar. A língua do sapo pode ser usada para puxar Megumi ou seus aliados para um local seguro e, em seguida, carregar uma pessoa inteira na boca, se necessário."
         },
         {
-            "nome": "Max Elefante"
+            "nome": "Max Elefante",
+            "descricao5": "(満ばん象しょう Banshō?): Um shikigami elefante que Megumi dominou pouco antes do Evento Goodwill. Max Elephant tem a capacidade de produzir um grande volume de água a partir de sua tromba e seu peso também pode ser usado ofensivamente."
         },
         {
-            "nome": "Fuga do Coelho"
+            "nome": "Fuga do Coelho",
+            "descricao6": "(脱だっ兎と Datto?): Um enxame de shikigami de coelhos que Megumi usa como distração ou para ajudá-lo a descobrir as habilidades de seus inimigos. Assim como o Well's Unknown Abyss, os coelhos podem ser destruídos sem qualquer repercussão, permitindo que Megumi gere quantos ele precisar."
         },
         {
-            "nome": "Cervo Circular"
+            "nome": "Cervo Circular",
+            "descricao7": "(円 鹿 Madoka): Um Cervo que utiliza técnica amaldiçoada reversa para curar, é também capaz de utilizar a técnica reversa para extinguir energia amaldiçoada de objetos e substâncias."
         },
         {
-            "nome": "Touro Perfurante"
+            "nome": "Touro Perfurante",
+            "descricao8": "(貫 牛 Kangyū): Um Touro que só ataca em linha reta, o ataque e a velocidade do shikigami aumenta conforme a distância que ele percorre."
         },
         {
-            "nome": "Tigre Sepulcral"
+            "nome": "Tigre Sepulcral",
+            "descricao9": "(虎 葬 Kosou): O 9° shikigami das Dez sombras, suas habilidades e sua aparência é desconhecida."
         },
         {
-            "nome": "Espada de Oito Cabos Divergente Sila Divino General Mahoraga"
+            "nome": "Espada de Oito Cabos Divergente Sila Divino General Mahoraga",
+            "descricao10": "(八やつ握かの剣つるぎ異い戒かい神しん将しょう魔ま虚こ羅ら Yatsuka-no-Tsurugi Ikaishinshō Makora?): O shikigami incontrolável mais poderoso que a Técnica das Dez Sombras pode produzir . Nem um único usuário da técnica foi capaz de domar Mahoraga, incluindo Megumi. Ele só ameaça convocá-lo como um trunfo se sentir que vai perder uma batalha de qualquer maneira, liberando-o para atacar tanto ele quanto seu oponente."
         }
     ]
 }
