@@ -1,10 +1,12 @@
 {
     "Personagens": [
         {
-            "nome": "Cães Divinos"
+            "nome": "Cães Divinos",
+            "descricao1": "(玉ぎょく犬けん Gyokuken?): Shikigami caninos gêmeos com narizes poderosos para rastrear e presas e garras letais para devorar maldições."
         },
         {
-            "nome": "Nue"
+            "nome": "Nue",
+            "descricao2": "(鵺ぬえ Nue?): Um Shikigami alado armado com asas de eletrochoque que pode transportar pessoas por curtas distâncias. Megumi usa Nue principalmente para explorar ou apoiar outro Shikigami usando sua mobilidade."
         },
         {
             "nome": "Grande Serpente"
