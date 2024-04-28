@@ -1,32 +1,34 @@
 {
     "Personagens": [
         {
-            "id": 1,
-            "nome": "kaleb",
-            "idade": "-",
-            "arma": "-",
-            "tributo1": "Indução a Efeito de Status ou Manipulação Empática."
+            "nome": "Cães Divinos",
         },
         {
-            "id": 2,
-            "nome": "Noah",
-            "idade": "-",
-            "arma": "-",
-            "tributo": "Manipulação Conceitual limitada, Criação e Manipulação Empática."
+            "nome": "Nue",
         },
         {
-            "id": 3,
-            "nome": "Mortuus",
-            "idade": "-",
-            "arma": "-",
-            "tributo": "Viagem Dimensional limitada."
+            "nome": "Grande Serpente",
         },
         {
-            "id": 4,
-            "nome": "Reaver",
-            "idade": "-",
-            "arma": "-",
-            "tributo": "Teletransporte."
+            "nome": "Sapo",
+        },
+        {
+            "nome": "Max Elefante",
+        },
+        {
+            "nome": "Fuga do Coelho",
+        },
+        {
+            "nome": "Cervo Circular",
+        },
+        {
+            "nome": "Touro Perfurante",
+        },
+        {
+            "nome": "Tigre Sepulcral",
+        },
+        {
+            "nome": "Espada de Oito Cabos Divergente Sila Divino General Mahoraga",
         }
     ]
 }
