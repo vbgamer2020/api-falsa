@@ -64,7 +64,21 @@
             "id13": "13",
             "nome": "Nue: Totalidade - Merged Beast Agito",
             "descricao13": "(鵺ぬえ「渾こん」嵌合かんごう獣じゅう顎あぎ吐と Nue・Kon - Kangō Jū Agito?) é uma versão humanóide melhorada do Shikigami Nue que herdou os poderes da Grande Serpente, Tigre Sepulcral e Cervo Redondo. .["
-        }
-        
+        },
+        {
+            "id14": "14",
+            "nome": "Jardim das Sombras Quimera",
+            "descricao14": "(嵌かん合ごう暗あん翳えい庭てい Kangō An'eitei?): Um domínio que inunda a área com sombras fluidas que podem rapidamente produzir qualquer desejo de Shikigami Megumi. O domínio de Megumi está incompleto e não tem uma função de sucesso, mas a Técnica das Dez Sombras foi aprimorada para 110% de seu potencial. Isso permite que Megumi produza clones de si mesmo a partir das sombras, bem como de Shikigami. Megumi é incapaz de produzir uma barreira ao redor do domínio e deve se sobrepor a um espaço interno para cercar seu domínio à força e prender seu alvo dentro dele."
+        },
+        {
+            "id15": "15",
+            "nome": "Reutilização da Energia Amaldiçoada",
+            "descricao15": "Caso um shikigami das Dez sombras morra, sua energia e características são passadas para outro shikigami, como no caso dos cães divinos onde o cão divino negro ficou mais forte e herdou características do cão branco após sua morte."
+        },
+        {
+            "id16": "16",
+            "nome": "Caminhar pelas sombras",
+            "descricao16": "Uma das passivas dá técnica é poder se esconder e guardar pessoas e objetos nas sombras sendo de uma maneira efetiva de se ocultar e ter uma armazém de armas amaldiçoadas sempre a disposição de seu usuário."
+        },
     ]
 }
